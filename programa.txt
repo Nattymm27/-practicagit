@@ -1,5 +1,6 @@
 Comenzar en un commit específico
-
 Para iniciar el registro de git log en un commit específico, añade el SHA:
-
 git log 7752b22
+
+Esto mostrará la confirmación con el SHA 7752b22 y todas las confirmaciones hechas antes de esa confirmación.
+Tu puedes combinar esto con cualquiera de las otras banderas.
