@@ -1,0 +1,5 @@
+Comenzar en un commit específico
+
+Para iniciar el registro de git log en un commit específico, añade el SHA:
+
+git log 7752b22
