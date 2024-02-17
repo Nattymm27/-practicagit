@@ -4,3 +4,6 @@ git log 7752b22
 
 Esto mostrará la confirmación con el SHA 7752b22 y todas las confirmaciones hechas antes de esa confirmación.
 Tu puedes combinar esto con cualquiera de las otras banderas.
+
+La bandera --graph te permite ver tu git log como un gráfico. 
+Para hacer las cosas más interesantes, tu puedes combinar este comando con la opción --oneline que aprendiste arriba.
